@@ -1,4 +1,4 @@
-# 8Bit-Computer
+# 8Bit-CPU
 
 A fully functional 8-bit CPU built from scratch in Verilog HDL. Features ALU (8 ops + carry), Reg A/B, 256×8 RAM with zero-latency combinational read, program counter, MAR, IR, and output register — all connected via a shared tri-stated bus. Simulated with Icarus Verilog and GTKWave.
 
